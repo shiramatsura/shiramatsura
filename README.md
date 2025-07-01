@@ -1,8 +1,5 @@
 Hi, I run by many names, but people usually call me a white_smthg.
 I'm an aspiring red-teamer/pentester, right now.
-Take a look at these THM bages :
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3556897" style='border:none;'></iframe>
 
 <!--
 **shiramatsura/shiramatsura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
